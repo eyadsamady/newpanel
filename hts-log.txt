@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Apr 2019 22:09:43 at http://goldbots.glitch.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://goldbots.glitch.me/ -O1 "C:\My Web Sites\goldbots" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:11:52	Warning: 	Retry after error -2 (Receive Time Out) at link https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js (from goldbots.glitch.me/)
+22:11:52	Error: 	"Not Found" (404) at link goldbots.glitch.me/css/main.css (from goldbots.glitch.me/)
+22:11:52	Error: 	"Not Found" (404) at link goldbots.glitch.me/animate.css (from goldbots.glitch.me/)
+22:13:54	Warning: 	Retry after error -2 (Receive Time Out) at link https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js (from goldbots.glitch.me/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 11 seconds : 26 links scanned, 21 files written (1887118 bytes overall) [1577078 bytes received at 6283 bytes/sec], 423505 bytes transferred using HTTP compression in 7 files, ratio 23%, 1.6 requests per connection
+(2 errors, 2 warnings, 0 messages)
