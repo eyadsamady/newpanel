@@ -1,0 +1,99 @@
+body{
+background-image: url("../cdn.discordapp.com/attachments/568262105526960131/569061620563705856/52.png");
+background-attachment: fixed;
+    -webkit-animation: marquee 20s infinite linear;
+background-size: cover;
+
+}
+
+
+/* Animation */
+@-webkit-keyframes marquee {
+  0% {
+    background-position: 0;
+  }
+
+  100% {
+    background-position: -1800px;
+  }
+}
+#devs{
+    text-align: center;
+    font-family: Tajawal;
+    color: white;
+    font-size: 25px
+}
+#devsses{
+  text-align: center;
+    font-family: Tajawal;
+    color: white;
+    font-size: 25px    
+}
+#statat{
+    margin-left: 555px;
+    margin-top: -210px;
+}
+#statats{
+    margin-left: -555px;
+    margin-top: -210px;
+}
+
+#sss{
+    font-size: 35px;
+       font-family: Tajawal;
+    color: white;
+    opacity: 0.9;
+}
+#hypexbot{
+     font-size: 18px;
+       font-family: Tajawal;
+    color: white;
+
+}
+#eeee{
+   font-size: 35px;
+       font-family: Tajawal;
+    color: white; 
+}
+
+::-webkit-input-placeholder {
+  color: peachpuff;
+     font-family: Tajawal;
+   font-size: 18px;
+}
+::-moz-placeholder {
+  color: peachpuff;
+     font-family: Tajawal;
+   font-size: 18px;
+}
+:-ms-input-placeholder {
+  color: peachpuff;
+    font-family: Tajawal;
+  font-size: 18px;
+}
+::placeholder {
+  color: peachpuff;
+     font-family: Tajawal;
+  font-size: 18px;
+}
+
+
+
+#iiiiiii{
+  font-size: 150px;
+}
+
+#homeName,
+#homeDescription{
+  color: white;
+  font-size: 25px;
+}
+#etype{
+   font-size: 25px
+}
+#devsssssss{
+      text-align: center;
+    font-family: Tajawal;
+    color: white;
+    font-size: 25px  
+}
